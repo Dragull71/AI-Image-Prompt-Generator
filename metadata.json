@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Prompt Generator",
+  "description": "Upload an image to generate a detailed, high-quality prompt for AI image generation models like Midjourney or DALL-E. The app analyzes your picture and creates a vivid description covering subject, setting, lighting, style, and composition.",
+  "requestFramePermissions": []
+}
